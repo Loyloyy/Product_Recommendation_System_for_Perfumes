@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+
+# Define here the models for your scraped items
+#
+# See documentation in:
+# http://doc.scrapy.org/en/latest/topics/items.html
+
+import scrapy
+
+class fragrance_scrapyItem(scrapy.Item):
+    designer = scrapy.Field()
+    perfumeName = scrapy.Field()
+    sex = scrapy.Field()
+    mainAccord1 = scrapy.Field()
+    mainAccord2 = scrapy.Field()
+    mainAccord3 = scrapy.Field()
+    mainAccord4 = scrapy.Field()
+    mainAccord5 = scrapy.Field()
+    #dayRatings = scrapy.Field()
+    #nightRatings = scrapy.Field()
+    haveRating = scrapy.Field()
+    hadRating = scrapy.Field()
+    wantRating = scrapy.Field()
+    signatureRating = scrapy.Field()
+    #year = scrapy.Field()
+    #numberComments = scrapy.Field()
+    perfumeRating = scrapy.Field()
+    numberVotes = scrapy.Field()
+
+    longevityPoor = scrapy.Field()
+    longevityWeak = scrapy.Field()
+    longevityModerate = scrapy.Field()
+    longevityLong = scrapy.Field()
+    longevityVeryLong = scrapy.Field()
+
+    sillageSoft = scrapy.Field()
+    sillageModerate = scrapy.Field()
+    sillageHeavy = scrapy.Field()
+    sillageEnormous = scrapy.Field()
+
+    consumerMainNoteType1 = scrapy.Field()
+    # consumerMainNoteType1Number = scrapy.Field()
+    # consumerMainNoteType2 = scrapy.Field()
+    # consumerMainNoteType2Number = scrapy.Field()
+    # consumerMainNoteType3 = scrapy.Field()
+    # consumerMainNoteType3Number = scrapy.Field()
+    # consumerMainNoteType4 = scrapy.Field()
+    # consumerMainNoteType4Number = scrapy.Field()
+    # consumerMainNoteType5 = scrapy.Field()
+    # consumerMainNoteType5Number = scrapy.Field()
+    # consumerMainNoteType6 = scrapy.Field()
+    # consumerMainNoteType6Number = scrapy.Field()
+    # consumerMainNoteType7 = scrapy.Field()
+    # consumerMainNoteType7Number = scrapy.Field()
+    # consumerMainNoteType8 = scrapy.Field()
+    # consumerMainNoteType8Number = scrapy.Field()
+    # consumerMainNoteType9 = scrapy.Field()
+    # consumerMainNoteType9Number = scrapy.Field()
+    # consumerMainNoteType10 = scrapy.Field()
+    # consumerMainNoteType10Number = scrapy.Field()
+    # consumerMainNoteType11 = scrapy.Field()
+    # consumerMainNoteType11Number = scrapy.Field()
+    # consumerMainNoteType12 = scrapy.Field()
+    # consumerMainNoteType12Number = scrapy.Field()
+    # consumerMainNoteType13 = scrapy.Field()
+    # consumerMainNoteType13Number = scrapy.Field()
+    # consumerMainNoteType14 = scrapy.Field()
+    # consumerMainNoteType14Number = scrapy.Field()
+    # consumerMainNoteType15 = scrapy.Field()
+    # consumerMainNoteType15Number = scrapy.Field()
