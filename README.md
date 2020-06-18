@@ -1,4 +1,4 @@
-# Fragrance Popularity Analysis (4) <Ongoing project, still scraping data>
+# Product_Recommendation_System_for_Perfumes <Ongoing project, still scraping data>
 
 ### Motivation
 My goal for this project includes the following
