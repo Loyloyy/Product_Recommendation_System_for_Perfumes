@@ -1,4 +1,4 @@
-# Product_Recommendation_System_for_Perfumes <Ongoing project, still scraping data>
+# Product_Recommendation_System_for_Perfumes <Ongoing project, Conducting Data Analysis!>
 
 ### Motivation
 My goal for this project includes the following
