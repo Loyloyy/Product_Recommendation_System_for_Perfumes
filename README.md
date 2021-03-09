@@ -1,4 +1,4 @@
-# Product_Recommendation_System_for_Perfumes <Ongoing project, Conducting Prediction of Fragrance Popularity!>
+# Product_Recommendation_System_for_Perfumes <Ongoing project (Resumed in 2021), Conducting Prediction of Fragrance Popularity!>
 
 ### Motivation
 My goal for this project includes the following
