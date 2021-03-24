@@ -1,4 +1,4 @@
-# Product_Recommendation_System_for_Perfumes <Ongoing project (Resumed in 2021), Conducting Prediction of Fragrance Popularity!>
+# Product_Recommendation_System_for_Perfumes <Ongoing project (Resumed in 2021), Creating Recommendation Engine now!>
 
 ### Motivation
 My goal for this project includes the following
@@ -18,4 +18,3 @@ As web scraping is something that is in the grey area, please do not abuse it wi
 ### More information
 As this is still a work in progress (still at web scraping), I have only uploaded the different types of scrapers I have created. My current usage will be the Selenium method. Although it is much slower compared to Scrapy, it allows me to also learn more about the different brands and perfumes out there as I constantly update the script. 
 
-Thank you for reading and if you have any suggestions on how I can improve, feel free to reach out to me at atan091@e.ntu.edu.sg
